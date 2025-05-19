@@ -45,18 +45,6 @@ Además, se implementa una lógica para realizar:
 
 ---
 
-## 🗂️ Estructura del repositorio
-
-📁 eia-electricity-pipeline/
-├── 📄 pipeline.ipynb # Notebook principal del pipeline
-├── 📄 pipeline.conf # Archivo de configuración con el token de API
-├── 📁 data/
-│ ├── 📁 bronze/ # Datos crudos
-│ ├── 📁 silver/ # Datos limpios
-│ └── 📁 gold/ # Datos finales
-└── 📄 README.md
-
-
 > 💡 Nota: en este entorno se simula un data lake en el sistema de archivos local. En producción, esto puede implementarse en Azure Data Lake, S3, etc.
 
 ---
