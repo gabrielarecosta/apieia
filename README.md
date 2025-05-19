@@ -73,19 +73,12 @@ Para ejecutar el pipeline, necesitás crear manualmente este archivo en la raíz
 [tmdb_api]
 access_token = TU_TOKEN_AQUI
 
+---
+
 🔑 ¿Cómo obtener el token?
 Registrate en la API pública de la EIA.
 
 Una vez que obtengas tu token de acceso, reemplazá TU_TOKEN_AQUI por tu token real.
-
-
----
-
-## 📈 Próximas mejoras
-
-- Añadir visualizaciones con Power BI, matplotlib o Seaborn.
-- Automatizar la ejecución diaria con Apache Airflow.
-- Adaptar el pipeline para ejecutarse sobre una nube pública (Azure, AWS).
 
 ---
 
