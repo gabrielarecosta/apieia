@@ -60,6 +60,7 @@ Para ejecutar el pipeline, necesitás crear manualmente este archivo en la raíz
 ```ini
 [tmdb_api]
 access_token = TU_TOKEN_AQUI
+```
 
 ---
 
